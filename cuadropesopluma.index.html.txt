@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>PESO PLUMA</title>
+<meta name="PESO PLUMA" content="Encabezado">
+</head>
+<body>
+<center>
+<table border= "1" width="1000" heigth="800">
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/wilV93Xlaxs?si=AId4nCtIGDyaMbVE"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/qRAerPAQs7E?si=fEXjRA6mQR8WOxFn"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/WllaN5m-dl4?si=7iTi5q1dw6wsjDiN"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/nQvDENPiBWU?si=rZEmD8HpJtEQQyvx"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/nQvDENPiBWU?si=rZEmD8HpJtEQQyvx"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/se6xDOh_dYE?si=nGbEWpXku3L_B6hq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/se6xDOh_dYE?si=nGbEWpXku3L_B6hq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/gOk_pxVDvOs?si=QzkagSvGkAb0-BU6"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/gOk_pxVDvOs?si=QzkagSvGkAb0-BU6"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/gOk_pxVDvOs?si=QzkagSvGkAb0-BU6"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/c23Vc4CTbT8?si=j8ze9X25NlY2GARe"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/c23Vc4CTbT8?si=j8ze9X25NlY2GARe"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/CVh0eO6qu9A?si=WlebOosprhPTgHW5"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/CVh0eO6qu9A?si=WlebOosprhPTgHW5"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/Oy9WDAfDAr4?si=isdEakNhnGFK5NHx"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/Oy9WDAfDAr4?si=isdEakNhnGFK5NHx"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/NhNyMeEnOLs?si=3Usmec5086XLuvC8"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/NhNyMeEnOLs?si=3Usmec5086XLuvC8"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/NhNyMeEnOLs?si=gWWnn7Z38NSy9zyN"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/NhNyMeEnOLs?si=gWWnn7Z38NSy9zyN"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/D9JIr0fsja8?si=IRIHkew3dJoCqTOQ"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D9JIr0fsja8?si=IRIHkew3dJoCqTOQ"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D9JIr0fsja8?si=IRIHkew3dJoCqTOQ"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D27GrwDAPx0?si=nk29KdQzDs_7NSdq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D27GrwDAPx0?si=nk29KdQzDs_7NSdq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D27GrwDAPx0?si=nk29KdQzDs_7NSdq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/D27GrwDAPx0?si=nk29KdQzDs_7NSdq"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/AU4LlEz3KzU?si=Cc5x2L4O1gE19osA"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/AU4LlEz3KzU?si=Cc5x2L4O1gE19osA"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/AU4LlEz3KzU?si=Cc5x2L4O1gE19osA"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/EbhJDZDjeIk?si=f12cmpcFqybkPmuV"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/EbhJDZDjeIk?si=f12cmpcFqybkPmuV"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/EbhJDZDjeIk?si=f12cmpcFqybkPmuV"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/68hM1OJnXyk?si=BgiHBWzybcsD20G-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/68hM1OJnXyk?si=BgiHBWzybcsD20G-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/68hM1OJnXyk?si=BgiHBWzybcsD20G-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/68hM1OJnXyk?si=BgiHBWzybcsD20G-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/2P7-KPGUcqk?si=OSNx-Zdqsdi12heP"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/2P7-KPGUcqk?si=OSNx-Zdqsdi12heP"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/2P7-KPGUcqk?si=OSNx-Zdqsdi12heP"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/1aSEnGSoFT0?si=89g-Tkc1QNrZ-51-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/1aSEnGSoFT0?si=89g-Tkc1QNrZ-51-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/1aSEnGSoFT0?si=89g-Tkc1QNrZ-51-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/1aSEnGSoFT0?si=89g-Tkc1QNrZ-51-"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/9wf0k9nGs3k?si=O6NY8OtqQvsR7SUp"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/9wf0k9nGs3k?si=O6NY8OtqQvsR7SUp"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/9wf0k9nGs3k?si=O6NY8OtqQvsR7SUp"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/ALM72lthdjE?si=R_K00CHgfjUzmuta"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/ALM72lthdjE?si=R_K00CHgfjUzmuta"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/ALM72lthdjE?si=R_K00CHgfjUzmuta"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/64p4eThZGnY?si=Jn8f1jzPuzwVSZt4"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/64p4eThZGnY?si=Jn8f1jzPuzwVSZt4"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/64p4eThZGnY?si=Jn8f1jzPuzwVSZt4"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/bUS-Dddefvs?si=qRoOJ2ouGIMdoRhy"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/bUS-Dddefvs?si=qRoOJ2ouGIMdoRhy"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/bUS-Dddefvs?si=qRoOJ2ouGIMdoRhy"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/0hlUhPK6_qo?si=3oYK8pBb27C24btE"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/0hlUhPK6_qo?si=3oYK8pBb27C24btE"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/0hlUhPK6_qo?si=3oYK8pBb27C24btE"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/4cyRzNkpNQc?si=dexRPEcR32hGMFB2"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/4cyRzNkpNQc?si=dexRPEcR32hGMFB2"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/4cyRzNkpNQc?si=dexRPEcR32hGMFB2"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/erBLFeAjH8w?si=oMdCg8HNzIouNplU"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/erBLFeAjH8w?si=oMdCg8HNzIouNplU"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/erBLFeAjH8w?si=oMdCg8HNzIouNplU"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/FTxzfZnyw2E?si=l8w-1SR-e7N1sNkR"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/FTxzfZnyw2E?si=l8w-1SR-e7N1sNkR"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/FTxzfZnyw2E?si=l8w-1SR-e7N1sNkR"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/9mSBfV6kFLI?si=LrLT7L6ZlwxjmXwD"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/9mSBfV6kFLI?si=LrLT7L6ZlwxjmXwD"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/fOT0BUpITw8?si=1pRP1sHhqGUax_r0"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/fOT0BUpITw8?si=1pRP1sHhqGUax_r0"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/fOT0BUpITw8?si=1pRP1sHhqGUax_r0"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/p1J0_04A81o?si=L3WzExksMdYDk96M"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/p1J0_04A81o?si=L3WzExksMdYDk96M"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/p1J0_04A81o?si=L3WzExksMdYDk96M"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/vtpp3g5GLeg?si=8FIAjSPkj8pyy80h"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/vtpp3g5GLeg?si=8FIAjSPkj8pyy80h"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/vtpp3g5GLeg?si=8FIAjSPkj8pyy80h"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/vtpp3g5GLeg?si=8FIAjSPkj8pyy80h"><img src="foto26.jpg" width="160" heigth="160"></a>
+<tr>
+<td width="16O" heigth="160"><a href="https://youtu.be/m6F1U25MB9s?si=-oqJQC3xIPFJW40M"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/m6F1U25MB9s?si=-oqJQC3xIPFJW40M"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/xjkeSrj-u-A?si=Y_18hrl1f5lFe3dk"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/ziHteF0WsPo?si=b5t_H6GZip34nPyu"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/XmwqVMIGZpg?si=rl0DMvSV5KUsG2CJ"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/naQuIdLa0kY?si=BKhAUtmSLrOBuxEr"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/pOSTvevcmcE?si=kOr4j4BjHSHG0l_1"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/6iwX2Jl1XDM?si=IldrkW4GAjJyr_nn"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/2A-PGa_6OYE?si=Q3gacfJGUmMzt1Nj"><img src="foto26.jpg" width="160" heigth="160"></a>
+<td width="16O" heigth="160"><a href="https://youtu.be/LuM3XQjrgfQ?si=SYHSrXwV2rpNqNRe"><img src="foto26.jpg" width="160" heigth="160"></a>
+</tr>
+</table>
+</center>
+</body>
+</html>

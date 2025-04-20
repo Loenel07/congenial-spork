@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> MR.BRIAN </title>
+<meta name="MR.BRIAN" content="Encabezado">
+</head>
+<body>
+<center>
+<table border= "1" width="800" heigth="800">
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/sspJCfpRFT0?si=XpMh-_UMnfaQoThn"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=iREQaUhG67yJqmDR"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/2e6LM74nXT8?si=8eTC91fKDN7gMM1n"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td colspan="2" width="322" heigth="322"><a href="https://youtu.be/MQwg-nZTYb8?si=lv70KcK2uMs-cfd5"><img src="foto24.jpg" width="343" heigth="170"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/i-CENUMecBw?si=ZukB_NGtX_KdbK3d"><img src="foto1.jpg" width="166" heigth="166"></a>
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/0vOvnEXLFe8?si=6nz6VuLPi31yH7F9"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/pgeP3vTZb90?si=6Bj4o6NIubMrj5dS"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/lvqU02Jn1Cg?si=TaLk1g6sGXXboOV4"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/KeLuVFZvt1k?si=NWQpibOE07HdtUkB"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td rowspan="2"><a href=""><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/s-TTqfHkB2Q?si=MqFChU3QOYnow2pF"><img src="foto1.jpg" width="166" heigth="166"></a>
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/0ZiKR558CyE?si=gPUhYohpU5-1oH4p"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td rowspan="4"><a href="https://youtu.be/o2vx5tNSz58?si=yUs-_OtM2yUlnXgB"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td colspan="2" rowspan="2"><a href="https://youtu.be/o2vx5tNSz58?si=yUs-_OtM2yUlnXgB"><img src="foto1.jpg" width="345" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/L14U9KUriF8?si=aeonWmFFgju0ea0r"><img src="foto1.jpg" width="166" heigth="166"></a>
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/6wWu1C0Zw30?si=sX8-FPy7-MAWjq8Y"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/6wWu1C0Zw30?si=sX8-FPy7-MAWjq8Y"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/c7JiOnZ5RGE?si=jXsUB6zDBm4TQvVi"><img src="foto1.jpg" width="166" heigth="166"></a>
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/AK-cuDdq8tU?si=nSAU2iT9YlU2Jqqn"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/ZnPjDM4wBdE?si=upKH0HJU22Z4spbM"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td colspan="2"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto24.jpg" width="343" heigth="166"></a>
+<tr>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td colspan="4"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto25.jpg" width="322" heigth="166"></a>
+<tr>
+<td colspan="2"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto24.jpg" width="343" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+<td width="166" heigth="166"><a href="https://youtu.be/-3FAtpqyx7M?si=DrqQ8HBE1DPOpoe5"><img src="foto1.jpg" width="166" heigth="166"></a>
+</tr>
+</table>
+</center>
+</body>
+</html>
